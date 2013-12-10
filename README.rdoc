@@ -1,3 +1,5 @@
 == README
 
 troubleshoot devise
+
+- to reproduce the issue try to signup at /clients/sign_up
